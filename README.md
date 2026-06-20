@@ -124,6 +124,11 @@ The Power BI dashboard includes:
 
 ---
 
+## Project Files
+
+Due to GitHub file size limitations, the full Power BI dashboard file and large dataset are available through Google Drive.
+
+[Download Full Project Files](https://drive.google.com/drive/folders/10pqFrpj_MH_xR5SU_7WPsYQ7KYOyKOKV?usp=sharing)
 ## Conclusion
 
 This project provides insights into household electricity consumption patterns. The analysis shows that electricity usage varies by hour, month, day type, and season. The highest consumption occurs during evening peak hours and winter months, while summer shows the lowest average consumption.
