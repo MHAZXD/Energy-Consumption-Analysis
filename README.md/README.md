@@ -123,6 +123,11 @@ The Power BI dashboard includes:
 - Interactive filters by year, season, and month
 
 ---
+## Project Files
+
+Due to GitHub file size limitations, the full Power BI dashboard file and large dataset are available through Google Drive.
+
+[Download Full Project Files](https://drive.google.com/drive/folders/10pqFrpj_MH_xR5SU_7WPsYQ7KYOyKOKV?usp=sharing)
 
 ## Conclusion
 
